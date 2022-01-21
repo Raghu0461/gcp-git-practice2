@@ -1,1 +1,2 @@
 this is first message from user1
+another message from user1
